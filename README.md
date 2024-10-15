@@ -2,7 +2,7 @@
 - 👀 I’m interested in odoo comunity 
 - 🌱 I’m currently learning how to mantain my own server and tweek my odoo installation 
 - 💞️ I’m looking to collaborate on the development od custom modules 
-- 📫 How to reach me  yago.martinez.varela@gmail.com
+- 📫 How to reach me  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
